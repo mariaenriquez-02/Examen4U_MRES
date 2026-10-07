@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(138, 55, 103);
+    font-family: Arial;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.Bibliioteca{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 30px;
+}
